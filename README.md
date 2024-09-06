@@ -1,4 +1,4 @@
-# USDZScanner
+# USDZARCamera
 
 A SwiftUI USDZ Object Scanner for Capturing Real Life Objects and transforming to USDZ file using Photogrametry.
 
