@@ -1,6 +1,4 @@
 /*
-See the LICENSE.txt file for this sample’s licensing information.
-
 Abstract:
 The view that shows the guidance text and tutorials on the review screen.
 */

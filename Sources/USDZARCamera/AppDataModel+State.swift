@@ -1,6 +1,4 @@
 /*
-See the LICENSE.txt file for this sample’s licensing information.
-
 Abstract:
 State enumeration for the data model type that maintains the state of the app.
 */

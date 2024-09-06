@@ -1,6 +1,4 @@
 /*
-See the LICENSE.txt file for this sample’s licensing information.
-
 Abstract:
 A full-screen overlay UI with buttons that control the capture.
 */

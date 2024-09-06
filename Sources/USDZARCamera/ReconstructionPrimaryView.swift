@@ -1,6 +1,4 @@
 /*
-See the LICENSE.txt file for this sample’s licensing information.
-
 Abstract:
 View to show during the reconstruction phase until the session receives a model output.
 */

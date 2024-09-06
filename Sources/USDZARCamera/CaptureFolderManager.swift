@@ -1,6 +1,4 @@
 /*
-See the LICENSE.txt file for this sample’s licensing information.
-
 Abstract:
 A class that supports the creation, listing, and filename support of a capture folder.
 */

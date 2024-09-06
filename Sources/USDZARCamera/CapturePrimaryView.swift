@@ -1,6 +1,4 @@
 /*
-See the LICENSE.txt file for this sample’s licensing information.
-
 Abstract:
 Top-level view for the object capture session that shows the info panel and other items during the session.
 */

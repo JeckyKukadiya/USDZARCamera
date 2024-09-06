@@ -1,6 +1,4 @@
 /*
-See the LICENSE.txt file for this sample’s licensing information.
-
 Abstract:
 An asynchronous sequence filter this sample applies to the photogrammetry session.
 */

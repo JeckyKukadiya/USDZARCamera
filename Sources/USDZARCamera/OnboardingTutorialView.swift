@@ -1,6 +1,4 @@
 /*
-See the LICENSE.txt file for this sample’s licensing information.
-
 Abstract:
 The guidance view that shows the video tutorial or the point cloud on the review screen.
 */

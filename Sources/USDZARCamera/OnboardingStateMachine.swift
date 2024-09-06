@@ -1,6 +1,4 @@
 /*
-See the LICENSE.txt file for this sample’s licensing information.
-
 Abstract:
 The state machine this sample uses to transition between the review screens, playing the tutorials, and showing the guidance text.
 */
